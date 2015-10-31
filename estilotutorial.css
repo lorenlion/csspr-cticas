@@ -1,0 +1,23 @@
+
+.morado{
+background-color: purple;
+}
+
+h4{
+  background-color:blue;
+   width: 100px;
+  margin: 0 auto;
+}
+  {
+  background-color: orange;
+}
+
+
+form{
+  background-color: red;
+  width:100px;
+}
+img, a, span {
+  background-color:yellow;
+  padding: 30px;
+}
